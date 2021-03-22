@@ -1,6 +1,6 @@
 # Capstone-Project
 # This is a markdown file
-Let me introduce the contacts of the capstone project through a scenario.
+Let me introduce the contents of the capstone project through a scenario.
 
 you live on the West side of the City of Toronto in Canada. You love your neighborhood mainly because of all the great amenities and other types of venues that exist in the neighborhood. Such as gourmet fast food joints, pharmacies, parks, grad schools, and so on.
 
